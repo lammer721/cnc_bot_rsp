@@ -13,7 +13,7 @@ def generate_launch_description():
 
     # Specify the name of the package and path to xacro file within the package
     pkg_name = 'urdf_example'
-    file_subpath = 'description/example_robot.urdf.xacro'
+    file_subpath = 'description/cnc_bot.urdf.xacro'
 
 
     # Use xacro to process the file
